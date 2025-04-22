@@ -17,6 +17,7 @@
 
 python-dotenv==1.0.0
 ipython
+Jinja2
 
 boto3==1.28.68
 
